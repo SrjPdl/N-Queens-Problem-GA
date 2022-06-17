@@ -1,6 +1,3 @@
-best individual: [3, 10, 14, 7, 2, 0, 6, 12, 15, 8, 4, 13, 1, 9, 11, 5]
- fitness: (0.0,)
-
 # 👑 N-Queens Problem
 #### Statement:
 Place $N$ chess queens on an $N \times N$ chessboard in such a way that no two queens threaten each other. The original problem was called the eight-queen puzzle where the task was to place eight chess queens on the $8\times8$ board without any two of them threatening each other.
